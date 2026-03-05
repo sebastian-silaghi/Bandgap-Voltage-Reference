@@ -8,5 +8,4 @@ Tools used:
 - Analog design principles
 
 Results:
-Reference voltage ≈ 1.2 V
-PVT variation < 25 mV
+Reference voltage ≈ 1.2 V and overall PVT variation < 25 mV
