@@ -1,2 +1,12 @@
 # Bandgap-Voltage-Reference
-Analog design and simulation of a 1.2V Brokaw bandgap voltage reference with temperature compensation.
+
+This project implements a Brokaw bandgap reference using LTSpice.
+The circuit produces a temperature-independent voltage reference.
+
+Tools used:
+- LTSpice
+- Analog design principles
+
+Results:
+Reference voltage ≈ 1.2 V
+PVT variation < 25 mV
