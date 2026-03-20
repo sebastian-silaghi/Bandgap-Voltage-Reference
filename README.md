@@ -1,7 +1,9 @@
 # Bandgap-Voltage-Reference
 
-This project implements a Brokaw bandgap reference using LTSpice.
-The circuit produces a temperature-independent voltage reference.
+Brokaw bandgap voltage reference topology implementation and design.
+Internal CMOS technology transistor-level operational amplifier design.
+Low PVT variations with second-order compensation.
+Low quiescent current and high precision.
 
 
 ## Tools
